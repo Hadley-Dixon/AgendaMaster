@@ -1,7 +1,4 @@
-# Agenda
-
-Project starter code for CIS 211, Introduction to Computer Science II, 
-University of Oregon. 
+# Project Description
 
 ## What it does 
 
