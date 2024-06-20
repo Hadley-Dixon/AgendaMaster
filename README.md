@@ -58,9 +58,3 @@ Conflict: 2019-02-07 10:00 11:20 |  CIS 211 lecture 10 and  CIS 211 midterm
 
 Oops, the midterm is scheduled during lecture, 
 so I had better not plan a lecture for that day! 
-
-## How to buid it
-
-Detailed instructions are included in docs/HOWTO.md. 
-We strongly advise you to work through them step-by-step. 
-
