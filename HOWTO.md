@@ -1,16 +1,5 @@
 # HOWTO complete the Appointments project
 
-You will create a source file called `appt.py` 
-that defines two Python classes, 
-`Appt` for a single appointment and `Agenda`
-for a list of appointments. 
-`appt_io.py` (provided) handles conversion 
-to and from text files, and two unit test files 
-`test_appt.py` and `test_agenda.py` provide 
-a simple suite of test cases to check your 
-progress on the `Appt` and `Agenda` classes, 
-respectively, as you work through the project. 
-
 ## Skeleton of appt.py
 
 `Appt` objects will record the dates and times 
